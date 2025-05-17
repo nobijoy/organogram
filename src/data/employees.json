@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Alice", "title": "CTO", "managerId": null },
+  { "id": 2, "name": "Bob", "title": "Senior Software Eng", "managerId": 1 },
+  { "id": 3, "name": "Carol", "title": "Software Eng", "managerId": 2 },
+  { "id": 4, "name": "Dave", "title": "Software Eng", "managerId": 2 },
+  { "id": 5, "name": "Eve", "title": "Senior Software Eng", "managerId": 1 },
+  { "id": 6, "name": "Frank", "title": "Software Eng", "managerId": 5 }
+]
